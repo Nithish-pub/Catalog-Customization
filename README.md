@@ -19,7 +19,7 @@ This application allows stores to offer an extended product catalog for delivery
 ## Prerequisites
 
 - Node.js (v14+)
-- Flutter (latest stable)
+- Flutter (latest version)
 - Elasticsearch (v8.x)
 - Docker (optional)
 
@@ -210,18 +210,3 @@ cd frontend
 flutter pub run build_runner build
 ```
 
-## Deployment
-
-See [deployment.md](./deployment.md) for production deployment instructions.
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
